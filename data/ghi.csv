@@ -1,0 +1,5 @@
+object_type,path_name,measurement
+power_switch,GHI.CS0Y,False
+power_break,GHI.DJ0X,True
+power_terminal,GHI.LT_ACC,140
+power_terminal,GHI.BR04_terminal1,230

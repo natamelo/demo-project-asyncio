@@ -1,0 +1,5 @@
+object_type,path_name,measurement
+power_switch,DEF.CS0Y,False
+power_break,DEF.DJ0X,True
+power_terminal,DEF.LT_ACC,140
+power_terminal,DEF.BR04_terminal1,230
